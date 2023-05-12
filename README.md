@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maciek</h1>
-<h3 align="center">A software developer and computer science student from Poland</h3>
+<h3 align="center">A software developer from Poland</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
